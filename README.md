@@ -4,7 +4,7 @@ Contém problemas resolvidos para maratonas de programação (IEEExtreme e SBC) 
 
 Participam deste time as seguintes personalidades:
 
-* Arthur Reis
+* Arthur Reis @oarthurcarvalho
 * Diego Catalão
 * Fernando Oliveira 
 * Gabrielle Silva
